@@ -1,5 +1,6 @@
 # hello-world
 
-Oh my word!! This is so cool and easy! Why have I not used this before???
 
 What on earth am I doing?
+
+Maybe easier than I thought but still have to focus :-)
